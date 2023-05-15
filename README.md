@@ -56,7 +56,6 @@ NEXTAUTH_SECRET=
 
 ```shell
 npx prisma db push
-
 ```
 
 ### Start the app
